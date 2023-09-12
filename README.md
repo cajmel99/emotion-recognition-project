@@ -8,4 +8,5 @@ The dataset for the project is the OpenCV Emotion Images dataset from Kaggle. Th
 
 Link to dataset: https://www.kaggle.com/datasets/juniorbueno/rating-opencv-emotion-images
 
-![image](https://github.com/cajmel99/emotion-recognition-project/assets/127307648/2db2aa25-cb82-49c8-9a48-e308409e42ad)
+## 3. Results and steps
+All details are in Emotion recognition.pdf file
